@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteRule ^api/?$  ./game_api.php?call=default
+RewriteRule ^api/crea/?$  ./game_api.php?call=crea
+RewriteRule ^api/unirse/?$  ./game_api.php?call=unirse
+RewriteRule ^api/status/?$  ./game_api.php?call=status
+RewriteRule ^api/accion/posicion/?$  ./game_api.php?call=accion-posicion
+RewriteRule ^api/accion/coger/?$  ./game_api.php?call=accion-coger
+RewriteRule ^api/accion/dejar/?$  ./game_api.php?call=accion-dejar
+
