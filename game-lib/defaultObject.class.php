@@ -7,6 +7,7 @@ function getDefaultObject()
 	$objeto->Padre = getDefaultPadre() ;
 	$objeto->Hijos = array() ;
 	$objeto->elementos = 1;
+	$objeto->timestamp = date( "Y-m-d H:i:s" ) ;
 	
 	return $objeto ;
 }

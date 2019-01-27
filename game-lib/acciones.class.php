@@ -14,7 +14,7 @@ function setPosicion( $objPeticion )
 {
 	if( !empty( $objPeticion->ID ) 
 		&& isset( $objPeticion->Transform ) )
-	{echo 2;
+	{
 		if( $objPeticion->ID == 1 )
 		{
 			$memoria = new memoria();

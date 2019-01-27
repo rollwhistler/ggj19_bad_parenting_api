@@ -34,15 +34,27 @@ function getObjetoPeticion()
 		die( 'Petición no válida' ) ;
 	}
 
+	$peticion = urldecode( $peticion ) ;
+
 	$obj_peticion = json_decode( $peticion ) ;
 
 	$last_json_error = json_last_error() ;
 
 	if ( $last_json_error > 0 )
 	{
+		guardaLog( 'json_error: ' . $last_json_error . ' -> ' . $peticion ) ; 
 		die( 'json_error: ' . $last_json_error ) ;
 	}
 	
 	return $obj_peticion ;
 
+}
+
+function guardaLog( $txt )
+{
+	$f = fopen( 'log.log' , 'a' ) ;
+	$linea = date( "Y-m-d H:i:s" ) . ' ' . $txt . '
+' ;
+	fputs( $f , $linea ) ;
+	fclose( $f ) ;
 }

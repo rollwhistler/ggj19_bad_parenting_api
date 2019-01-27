@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>suicidal kit</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				font-family: Monospace;
+				background-color: #000;
+				color: #fff;
+				margin: 0px;
+				overflow: hidden;
+			}
+			#info {
+				color: #fff;
+				position: absolute;
+				top: 10px;
+				width: 100%;
+				text-align: center;
+				z-index: 100;
+				display:block;
+			}
+			#info a, .button { color: #f00; font-weight: bold; text-decoration: underline; cursor: pointer }
+
+			#blocker {
+
+				position: absolute;
+
+				width: 100%;
+				height: 100%;
+
+				background-color: rgba(0,0,0,0.5);
+
+			}
+
+			#instructions {
+
+				width: 100%;
+				height: 100%;
+
+				display: -webkit-box;
+				display: -moz-box;
+				display: box;
+
+				-webkit-box-orient: horizontal;
+				-moz-box-orient: horizontal;
+				box-orient: horizontal;
+
+				-webkit-box-pack: center;
+				-moz-box-pack: center;
+				box-pack: center;
+
+				-webkit-box-align: center;
+				-moz-box-align: center;
+				box-align: center;
+
+				color: #ffffff;
+				text-align: center;
+
+				cursor: pointer;
+
+			}
+
+			table td {
+				padding: 0;
+				margin: 0;
+				width: 4px;
+				height: 4px;
+				border: 1px solid #222;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="info">
+			<span id="serverInput"></span>
+			<div style="height: 600px; width: 250px; overflow: auto; position: absolute; right: 0; top: 0; background-color: black;">
+				<pre id="lastStatus" style="text-align: left; font-size: 10px;"></pre>
+			</div>
+
+		</div>
+		<table cellspacing="0">
+		<script>
+		Config = {} ;
+			var mapaXmin = 0 ;
+			var mapaZmin = 0 ;
+			var mapaXmax = 20 ;
+			var mapaZmax = 20 ;
+			
+			var TotalRealX = mapaXmax - mapaXmin ;
+			var TotalRealZ = mapaZmax - mapaZmin ;
+			
+			var minI = -10;
+			var minJ = -150;
+			var maxI = 100;
+			var maxJ = 10;
+
+			if( TotalRealX > TotalRealZ )
+			{
+				Config.escala = ( maxJ - minJ ) / TotalRealX ;
+			}
+			else
+			{
+				Config.escala = ( maxI - minI ) / TotalRealZ ;
+			}
+					
+			for (var i = minI ; i < maxI; i++) {
+				document.write("<tr>");
+				for (var j = minJ ; j < maxJ; j++) {
+					var key = i + "-" + j;
+					document.write("<td id='a" + key + "'></td>");
+				}
+				document.write("</tr>");
+			}
+
+		</script>
+		</table>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script>
+			document.write( "<small>" + Config.escala + "</small>" );
+			var serverUrl = "http://10.4.179.6/api/status";
+			var serverParams = {};
+			document.getElementById("serverInput").innerHTML = "server URL: " + serverUrl;
+
+			var status = "";
+			var updater = window.setInterval(updateStatus, 500);
+
+			function updateStatus() {
+
+				$.post( serverUrl , serverParams , function( data ) {
+
+					$('td').css('background-color', 'black');
+
+					obj = jQuery.parseJSON( data ) ; 
+
+					var x, z;
+					$.each( obj.Hijos , function( index, value ) {
+						x = Math.floor( value.Transform.X.toString().replace(",",".") * Config.escala );
+						z = Math.floor( value.Transform.Z.toString().replace(",",".") * Config.escala );
+						console.log( z + "-" + x ) ;
+						
+						if ( value.Transform.Y.toString().replace(",",".") >= 0 )
+						{
+							$('#a' + z + "-" + x).css('background-color', '#ff0');
+						}
+						else
+						{
+							$('#a' + z + "-" + x).css('background-color', '#f55');
+						}
+					});
+
+					x = Math.floor( obj.Padre.Transform.X.toString().replace(",",".") * Config.escala );
+					z = Math.floor( obj.Padre.Transform.Z.toString().replace(",",".") * Config.escala );
+					$('#a' + z + "-" + x).css('background-color', 'cyan');
+
+					$( "#lastStatus" ).html( JSON.stringify(obj, null, 2) ) ;
+				});
+			}
+		</script>
+	</body>
+</html>
+

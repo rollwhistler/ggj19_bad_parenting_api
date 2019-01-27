@@ -1,5 +1,6 @@
 RewriteEngine on
 
+RewriteRule ^monitor/?$  ./monitor.html
 RewriteRule ^api/?$  ./game_api.php?call=default
 RewriteRule ^api/crea/?$  ./game_api.php?call=crea
 RewriteRule ^api/unirse/?$  ./game_api.php?call=unirse

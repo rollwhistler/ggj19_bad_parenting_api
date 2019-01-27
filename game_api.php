@@ -1,4 +1,5 @@
 <?php
+header( 'Access-Control-Allow-Origin: *' ) ;
 
 include( 'game-lib/comunes.class.php' ) ;
 include( 'game-lib/memoria.class.php' ) ;

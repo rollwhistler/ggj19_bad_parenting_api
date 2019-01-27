@@ -1,0 +1,222 @@
+2019-01-26 17:56:51 json_error: 4 -> %7b%22ID%22%3a2%2c%22Transform%22%3a%7b%22X%22%3a1%2c%22Y%22%3a2%2c%22Z%22%3a3%7d%2c%22Movil%22%3atrue%2c%22Animacion%22%3a%22%22%7d
+2019-01-26 17:57:44 json_error: 4 -> %7b%22ID%22%3a2%2c%22Transform%22%3a%7b%22X%22%3a1%2c%22Y%22%3a2%2c%22Z%22%3a3%7d%2c%22Movil%22%3atrue%2c%22Animacion%22%3a%22%22%7d
+2019-01-26 17:59:38 json_error: 4 -> %7b%22ID%22%3a2%2c%22Transform%22%3a%7b%22X%22%3a1%2c%22Y%22%3a2%2c%22Z%22%3a3%7d%2c%22Movil%22%3atrue%2c%22Animacion%22%3a%22%22%7d
+2019-01-26 20:23:08 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:08 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:09 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:09 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:10 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:11 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:11 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:12 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:12 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,484896},"Movil":true,"Animacion":""}
+2019-01-26 20:47:13 json_error: 4 -> {"ID":2,"Transform":{"X":-8,970199,"Y":0,1499999,"Z":4,738349},"Movil":true,"Animacion":""}
+2019-01-26 20:47:13 json_error: 4 -> {"ID":2,"Transform":{"X":-8,9702,"Y":0,15,"Z":4,73835},"Movil":true,"Animacion":""}
+2019-01-26 20:47:14 json_error: 4 -> {"ID":2,"Transform":{"X":-9,270473,"Y":-0,9848988,"Z":4,87822},"Movil":true,"Animacion":""}
+2019-01-26 20:47:14 json_error: 4 -> {"ID":2,"Transform":{"X":-9,296923,"Y":-2,466176,"Z":4,878169},"Movil":true,"Animacion":""}
+2019-01-26 20:47:15 json_error: 4 -> {"ID":2,"Transform":{"X":-9,454828,"Y":-6,808667,"Z":5,170542},"Movil":true,"Animacion":""}
+2019-01-26 20:47:16 json_error: 4 -> {"ID":2,"Transform":{"X":-9,534739,"Y":-14,33348,"Z":5,318504},"Movil":true,"Animacion":""}
+2019-01-26 20:47:16 json_error: 4 -> {"ID":2,"Transform":{"X":-9,632233,"Y":-24,50311,"Z":5,49902},"Movil":true,"Animacion":""}
+2019-01-26 20:47:17 json_error: 4 -> {"ID":2,"Transform":{"X":-9,632233,"Y":-38,07086,"Z":5,49902},"Movil":true,"Animacion":""}
+2019-01-26 20:47:17 json_error: 4 -> {"ID":2,"Transform":{"X":-9,568876,"Y":-54,71503,"Z":5,381711},"Movil":true,"Animacion":""}
+2019-01-26 20:47:18 json_error: 4 -> {"ID":2,"Transform":{"X":-9,524662,"Y":-74,43561,"Z":5,299845},"Movil":true,"Animacion":""}
+2019-01-26 20:47:18 json_error: 4 -> {"ID":2,"Transform":{"X":-9,524662,"Y":-97,23264,"Z":5,299845},"Movil":true,"Animacion":""}
+2019-01-26 20:47:23 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:25 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:25 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:47:26 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,003072},"Movil":true,"Animacion":""}
+2019-01-26 20:47:26 json_error: 4 -> {"ID":2,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,751657},"Movil":true,"Animacion":""}
+2019-01-26 20:47:27 json_error: 4 -> {"ID":2,"Transform":{"X":-8,966974,"Y":0,1528128,"Z":4,939939},"Movil":true,"Animacion":""}
+2019-01-26 20:47:27 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,936296},"Movil":true,"Animacion":""}
+2019-01-26 20:47:28 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,014685},"Movil":true,"Animacion":""}
+2019-01-26 20:47:29 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,36962},"Movil":true,"Animacion":""}
+2019-01-26 20:47:29 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,376029},"Movil":true,"Animacion":""}
+2019-01-26 20:47:30 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,52662},"Movil":true,"Animacion":""}
+2019-01-26 20:47:30 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,752427},"Movil":true,"Animacion":""}
+2019-01-26 20:47:31 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,923198},"Movil":true,"Animacion":""}
+2019-01-26 20:47:31 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,972636},"Movil":true,"Animacion":""}
+2019-01-26 20:47:32 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,657557},"Movil":true,"Animacion":""}
+2019-01-26 20:47:32 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,834044},"Movil":true,"Animacion":""}
+2019-01-26 20:47:33 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,668349},"Movil":true,"Animacion":""}
+2019-01-26 20:47:34 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,023683},"Movil":true,"Animacion":""}
+2019-01-26 20:47:34 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,829036},"Movil":true,"Animacion":""}
+2019-01-26 20:47:35 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,771713},"Movil":true,"Animacion":""}
+2019-01-26 20:47:35 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,661834},"Movil":true,"Animacion":""}
+2019-01-26 20:47:36 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,050255},"Movil":true,"Animacion":""}
+2019-01-26 20:47:36 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,656721},"Movil":true,"Animacion":""}
+2019-01-26 20:47:37 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,502692},"Movil":true,"Animacion":""}
+2019-01-26 20:47:37 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":3,737299},"Movil":true,"Animacion":""}
+2019-01-26 20:47:38 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,567438},"Movil":true,"Animacion":""}
+2019-01-26 20:47:39 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,1500001,"Z":4,134789},"Movil":true,"Animacion":""}
+2019-01-26 20:47:39 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965701,"Y":0,15,"Z":4,030375},"Movil":true,"Animacion":""}
+2019-01-26 20:47:40 json_error: 4 -> {"ID":2,"Transform":{"X":-8,965702,"Y":0,1499999,"Z":4,030377},"Movil":true,"Animacion":""}
+2019-01-26 20:47:40 json_error: 4 -> {"ID":2,"Transform":{"X":-8,748976,"Y":0,15,"Z":4,744762},"Movil":true,"Animacion":""}
+2019-01-26 20:47:41 json_error: 4 -> {"ID":2,"Transform":{"X":-8,807638,"Y":-0,3616764,"Z":4,636345},"Movil":true,"Animacion":""}
+2019-01-26 20:47:41 json_error: 4 -> {"ID":2,"Transform":{"X":-8,922737,"Y":-2,218668,"Z":4,480191},"Movil":true,"Animacion":""}
+2019-01-26 20:47:42 json_error: 4 -> {"ID":2,"Transform":{"X":-8,922737,"Y":-6,490431,"Z":4,480191},"Movil":true,"Animacion":""}
+2019-01-26 20:47:42 json_error: 4 -> {"ID":2,"Transform":{"X":-8,922737,"Y":-13,6228,"Z":4,480191},"Movil":true,"Animacion":""}
+2019-01-26 20:47:43 json_error: 4 -> {"ID":2,"Transform":{"X":-8,922737,"Y":-24,0408,"Z":4,480191},"Movil":true,"Animacion":""}
+2019-01-26 20:47:43 json_error: 4 -> {"ID":2,"Transform":{"X":-8,922737,"Y":-37,53521,"Z":4,480191},"Movil":true,"Animacion":""}
+2019-01-26 20:48:06 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:07 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:08 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:08 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:09 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:10 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:10 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:11 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:11 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:12 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:12 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:13 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:13 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:14 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:14 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:15 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:16 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:16 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:17 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:17 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:18 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:18 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:19 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:19 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:20 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:21 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:21 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:22 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:22 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:23 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:23 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:24 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:25 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:25 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:26 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:26 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,57},"Movil":true,"Animacion":""}
+2019-01-26 20:48:27 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,573833},"Movil":true,"Animacion":""}
+2019-01-26 20:48:27 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,053914},"Movil":true,"Animacion":""}
+2019-01-26 20:48:28 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,76223},"Movil":true,"Animacion":""}
+2019-01-26 20:48:29 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,712508},"Movil":true,"Animacion":""}
+2019-01-26 20:48:29 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,925093},"Movil":true,"Animacion":""}
+2019-01-26 20:48:30 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":3,735999},"Movil":true,"Animacion":""}
+2019-01-26 20:48:30 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,157053},"Movil":true,"Animacion":""}
+2019-01-26 20:48:31 json_error: 4 -> {"ID":3,"Transform":{"X":-8,97,"Y":0,1500001,"Z":4,157053},"Movil":true,"Animacion":""}
+2019-01-26 20:48:31 json_error: 4 -> {"ID":3,"Transform":{"X":-8,927363,"Y":0,1500002,"Z":4,403965},"Movil":true,"Animacion":""}
+2019-01-26 20:48:32 json_error: 4 -> {"ID":3,"Transform":{"X":-8,969917,"Y":0,1500002,"Z":4,157537},"Movil":true,"Animacion":""}
+2019-01-26 20:48:32 json_error: 4 -> {"ID":3,"Transform":{"X":-8,91827,"Y":0,1500002,"Z":4,456627},"Movil":true,"Animacion":""}
+2019-01-26 20:48:33 json_error: 4 -> {"ID":3,"Transform":{"X":-8,95892,"Y":0,1500002,"Z":4,22124},"Movil":true,"Animacion":""}
+2019-01-26 20:48:34 json_error: 4 -> {"ID":3,"Transform":{"X":-8,95892,"Y":0,1499998,"Z":4,221242},"Movil":true,"Animacion":""}
+2019-01-26 20:48:34 json_error: 4 -> {"ID":3,"Transform":{"X":-8,894171,"Y":0,1499998,"Z":4,493488},"Movil":true,"Animacion":""}
+2019-01-26 20:48:35 json_error: 4 -> {"ID":3,"Transform":{"X":-8,972978,"Y":0,1499998,"Z":4,162169},"Movil":true,"Animacion":""}
+2019-01-26 20:48:35 json_error: 4 -> {"ID":3,"Transform":{"X":-8,975642,"Y":0,1499999,"Z":4,150971},"Movil":true,"Animacion":""}
+2019-01-26 20:48:36 json_error: 4 -> {"ID":3,"Transform":{"X":-8,822127,"Y":0,1499999,"Z":4,625895},"Movil":true,"Animacion":""}
+2019-01-26 20:48:36 json_error: 4 -> {"ID":3,"Transform":{"X":-8,810647,"Y":0,1500001,"Z":4,661417},"Movil":true,"Animacion":""}
+2019-01-26 20:48:37 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898129,"Y":0,15,"Z":4,439122},"Movil":true,"Animacion":""}
+2019-01-26 20:48:38 json_error: 4 -> {"ID":3,"Transform":{"X":-8,877618,"Y":0,15,"Z":4,49124},"Movil":true,"Animacion":""}
+2019-01-26 20:48:38 json_error: 4 -> {"ID":3,"Transform":{"X":-8,844911,"Y":0,15,"Z":4,574349},"Movil":true,"Animacion":""}
+2019-01-26 20:48:39 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:39 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:40 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:40 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:41 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:41 json_error: 4 -> {"ID":3,"Transform":{"X":-8,898202,"Y":0,15,"Z":4,438937},"Movil":true,"Animacion":""}
+2019-01-26 20:48:42 json_error: 4 -> {"ID":3,"Transform":{"X":-8,894089,"Y":0,15,"Z":4,449389},"Movil":true,"Animacion":""}
+2019-01-26 20:48:43 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:43 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:44 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:44 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:45 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:45 json_error: 4 -> {"ID":3,"Transform":{"X":-8,831254,"Y":0,15,"Z":4,609052},"Movil":true,"Animacion":""}
+2019-01-26 20:48:46 json_error: 4 -> {"ID":3,"Transform":{"X":-9,104196,"Y":0,15,"Z":3,915503},"Movil":true,"Animacion":""}
+2019-01-26 20:48:46 json_error: 4 -> {"ID":3,"Transform":{"X":-9,07281,"Y":0,15,"Z":3,995253},"Movil":true,"Animacion":""}
+2019-01-26 20:48:47 json_error: 4 -> {"ID":3,"Transform":{"X":-9,055332,"Y":0,15,"Z":4,039663},"Movil":true,"Animacion":""}
+2019-01-26 20:48:48 json_error: 4 -> {"ID":3,"Transform":{"X":-9,055332,"Y":0,15,"Z":4,039663},"Movil":true,"Animacion":""}
+2019-01-26 20:48:48 json_error: 4 -> {"ID":3,"Transform":{"X":-9,055332,"Y":0,15,"Z":4,039663},"Movil":true,"Animacion":""}
+2019-01-27 10:14:16 Inicio - nuevo hijo : 0.71691900 1548584056
+2019-01-27 10:14:16 Fin - nuevo hijo : 0.84351000 1548584056
+2019-01-27 10:14:51 Inicio - nuevo hijo : 0.16053700 1548584091
+2019-01-27 10:14:51 Fin - nuevo hijo : 0.17402700 1548584091
+2019-01-27 10:57:55 Inicio - nuevo hijo : 0.02320000 1548586675
+2019-01-27 10:57:55 Fin - nuevo hijo : 0.03991500 1548586675
+2019-01-27 11:01:02 Inicio - nuevo hijo : 0.85967000 1548586862
+2019-01-27 11:01:02 Fin - nuevo hijo : 0.86714800 1548586862
+2019-01-27 11:02:59 Inicio - nuevo hijo : 0.16132800 1548586979
+2019-01-27 11:02:59 Fin - nuevo hijo : 0.17556200 1548586979
+2019-01-27 11:03:03 Inicio - nuevo hijo : 0.65770600 1548586983
+2019-01-27 11:03:03 Fin - nuevo hijo : 0.67188200 1548586983
+2019-01-27 11:05:19 Inicio - nuevo hijo : 0.40559900 1548587119
+2019-01-27 11:05:19 Fin - nuevo hijo : 0.42492500 1548587119
+2019-01-27 11:05:31 Inicio - nuevo hijo : 0.67828300 1548587131
+2019-01-27 11:05:31 Fin - nuevo hijo : 0.69283600 1548587131
+2019-01-27 11:05:44 Inicio - nuevo hijo : 0.72542800 1548587144
+2019-01-27 11:05:44 Fin - nuevo hijo : 0.74072800 1548587144
+2019-01-27 11:14:42 Inicio - nuevo hijo : 0.31023400 1548587682
+2019-01-27 11:14:42 Fin - nuevo hijo : 0.31576100 1548587682
+2019-01-27 11:15:01 Inicio - nuevo hijo : 0.02014100 1548587701
+2019-01-27 11:15:01 Fin - nuevo hijo : 0.03239600 1548587701
+2019-01-27 11:16:50 Inicio - nuevo hijo : 0.41362600 1548587810
+2019-01-27 11:16:50 Fin - nuevo hijo : 0.42114200 1548587810
+2019-01-27 11:17:23 Inicio - nuevo hijo : 0.55066100 1548587843
+2019-01-27 11:17:23 Fin - nuevo hijo : 0.55831300 1548587843
+2019-01-27 11:20:24 Inicio - nuevo hijo : 0.49311000 1548588024
+2019-01-27 11:20:24 Fin - nuevo hijo : 0.49984500 1548588024
+2019-01-27 11:31:58 Inicio - nuevo hijo : 0.84826800 1548588718
+2019-01-27 11:31:58 Fin - nuevo hijo : 0.86252100 1548588718
+2019-01-27 11:36:13 Inicio - nuevo hijo : 0.23156200 1548588973
+2019-01-27 11:36:13 Fin - nuevo hijo : 0.25216400 1548588973
+2019-01-27 11:36:18 Inicio - nuevo hijo : 0.45233100 1548588978
+2019-01-27 11:36:18 Fin - nuevo hijo : 0.46097800 1548588978
+2019-01-27 11:36:47 Inicio - nuevo hijo : 0.26159800 1548589007
+2019-01-27 11:36:47 Fin - nuevo hijo : 0.28042800 1548589007
+2019-01-27 11:37:21 Inicio - nuevo hijo : 0.36097800 1548589041
+2019-01-27 11:37:21 Fin - nuevo hijo : 0.36836700 1548589041
+2019-01-27 11:38:15 Inicio - nuevo hijo : 0.11613900 1548589095
+2019-01-27 11:38:15 Fin - nuevo hijo : 0.12429800 1548589095
+2019-01-27 11:39:33 Inicio - nuevo hijo : 0.06266800 1548589173
+2019-01-27 11:39:33 Fin - nuevo hijo : 0.07258100 1548589173
+2019-01-27 11:39:39 Inicio - nuevo hijo : 0.23485100 1548589179
+2019-01-27 11:39:39 Fin - nuevo hijo : 0.24246300 1548589179
+2019-01-27 11:39:45 Inicio - nuevo hijo : 0.44562800 1548589185
+2019-01-27 11:39:45 Fin - nuevo hijo : 0.45108900 1548589185
+2019-01-27 11:40:03 Inicio - nuevo hijo : 0.96523900 1548589203
+2019-01-27 11:40:03 Fin - nuevo hijo : 0.98407600 1548589203
+2019-01-27 11:40:35 Inicio - nuevo hijo : 0.76549000 1548589235
+2019-01-27 11:40:35 Fin - nuevo hijo : 0.77571600 1548589235
+2019-01-27 11:41:35 Inicio - nuevo hijo : 0.31033600 1548589295
+2019-01-27 11:41:35 Fin - nuevo hijo : 0.31666800 1548589295
+2019-01-27 11:41:59 Inicio - nuevo hijo : 0.12879600 1548589319
+2019-01-27 11:41:59 Fin - nuevo hijo : 0.13726800 1548589319
+2019-01-27 11:42:47 Inicio - nuevo hijo : 0.57499800 1548589367
+2019-01-27 11:42:47 Fin - nuevo hijo : 0.58152500 1548589367
+2019-01-27 11:42:59 Inicio - nuevo hijo : 0.68463200 1548589379
+2019-01-27 11:42:59 Fin - nuevo hijo : 0.69465200 1548589379
+2019-01-27 11:44:13 Inicio - nuevo hijo : 0.53185400 1548589453
+2019-01-27 11:44:13 Fin - nuevo hijo : 0.53834000 1548589453
+2019-01-27 11:44:21 Inicio - nuevo hijo : 0.64930600 1548589461
+2019-01-27 11:44:21 Fin - nuevo hijo : 0.65699800 1548589461
+2019-01-27 11:52:04 Inicio - nuevo hijo : 0.37140000 1548589924
+2019-01-27 11:52:04 Fin - nuevo hijo : 0.37919200 1548589924
+2019-01-27 11:52:06 Inicio - nuevo hijo : 0.73996000 1548589926
+2019-01-27 11:52:06 Fin - nuevo hijo : 0.75237400 1548589926
+2019-01-27 11:52:23 Inicio - nuevo hijo : 0.43804900 1548589943
+2019-01-27 11:52:23 Fin - nuevo hijo : 0.44528600 1548589943
+2019-01-27 12:02:40 Inicio - nuevo hijo : 0.12310400 1548590560
+2019-01-27 12:02:40 Fin - nuevo hijo : 0.13216000 1548590560
+2019-01-27 12:04:26 Inicio - nuevo hijo : 0.14915700 1548590666
+2019-01-27 12:04:26 Fin - nuevo hijo : 0.15486300 1548590666
+2019-01-27 12:35:28 Inicio - nuevo hijo : 0.47231000 1548592528
+2019-01-27 12:35:28 Fin - nuevo hijo : 0.47917400 1548592528
+2019-01-27 12:35:49 Inicio - nuevo hijo : 0.88964600 1548592549
+2019-01-27 12:35:49 Fin - nuevo hijo : 0.89871300 1548592549
+2019-01-27 12:42:32 Inicio - nuevo hijo : 0.96006300 1548592952
+2019-01-27 12:42:32 Fin - nuevo hijo : 0.97149900 1548592952
+2019-01-27 12:55:15 Inicio - nuevo hijo : 0.41606800 1548593715
+2019-01-27 12:55:15 Fin - nuevo hijo : 0.42612200 1548593715
+2019-01-27 12:56:01 Inicio - nuevo hijo : 0.86245700 1548593761
+2019-01-27 12:56:01 Fin - nuevo hijo : 0.87274200 1548593761
+2019-01-27 12:57:01 Inicio - nuevo hijo : 0.01111200 1548593821
+2019-01-27 12:57:01 Fin - nuevo hijo : 0.02132200 1548593821
+2019-01-27 12:58:48 Inicio - nuevo hijo : 0.49395700 1548593928
+2019-01-27 12:58:48 Fin - nuevo hijo : 0.51398000 1548593928
+2019-01-27 12:59:11 Inicio - nuevo hijo : 0.59832900 1548593951
+2019-01-27 12:59:11 Fin - nuevo hijo : 0.60605700 1548593951
